@@ -4,13 +4,4 @@ this is a something
 
 ## do this
 
-put this in the temrinal
-
-```
- asdasd
-    asdasdasd
-    
-          asdasd
-          
-     adasd
-```
+open this repository `~/docs/asdasd.html`
